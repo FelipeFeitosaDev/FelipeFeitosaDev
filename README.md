@@ -1,6 +1,6 @@
 # Hello World! 👋 
 ![](https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=dc143c)
-<p>I believe in the power of technology to make a fair world, where everyone can enjoy life to it's fullest .</p>
+<p>I believe in the power of technology to make a fair world, where everyone can enjoy life without suffering.</p>
 <ul>
 <li>📖 I'm currently learning SQL and MongoDB</li>
 <li>⌨️ My stack: ReactJS, Node.js & React Native</li>

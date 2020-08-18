@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello World! 👋 
+![](https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=000000)
+<p>I believe it's possible to make the world better, where everyone can enjoy life to its fullest through technology.</p>
+<ul>
+<li>📖 I'm currently learning SQL and MongoDB</li>
+<li>⌨️ My stack: ReactJS, Node.js & React Native</li>
+<li>💪 2020 Goals: Contribute more to open source education projects</li>
+<li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
+</ul>
 
-<!--
-**FelipeFeitosaDev/FelipeFeitosaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>How to reach me:</b><br><br>
+<a href="https://www.linkedin.com/in/ffdev/">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/felipefdev/">
+<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384089.svg" style="max-width:100%;">
+</a>
+<h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
+<p align="left">
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=cobalt" />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=graywhite" />
+</p>

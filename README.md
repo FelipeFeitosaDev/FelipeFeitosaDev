@@ -1,5 +1,5 @@
 # Hello World! 👋 
-![](https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=000000)
+![](https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=dc143c)
 <p>I believe it's possible to make the world better, where everyone can enjoy life to its fullest through technology.</p>
 <ul>
 <li>📖 I'm currently learning SQL and MongoDB</li>

@@ -15,7 +15,6 @@
 </p>
 <br>
 <b>How to reach me:</b><br>
-
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>

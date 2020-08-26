@@ -6,7 +6,7 @@
 <li>💪 2020 Goals: Contribute more to open source education projects</li>
 <li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
 </ul>
-<p><b>My Stack:</b></p><br>
+<p><b>My Stack:</b></p>
 <p>
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1566444110414.png" style="max-width:100%;">
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564681946529.svg" style="max-width:100%;">

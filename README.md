@@ -13,7 +13,7 @@
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564682281422.svg" style="max-width:100%;">
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564682425906.svg" style="max-width:100%;">
 </div>
-<br><br>
+<br>
 <b>How to reach me:</b><br>
 
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">

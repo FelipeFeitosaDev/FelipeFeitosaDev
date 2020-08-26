@@ -7,12 +7,12 @@
 <li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
 </ul>
 <b>My Stack:</b><br>
-<img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1566444110414.png" style="max-width:100%;">
+<img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1566444110414.png" style="max-width:100%;display:inline-block;">
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564681946529.svg" style="max-width:100%;">
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564682281422.svg" style="max-width:100%;">
 <img align="left" width="22px" src="https://xesque.rocketseat.dev/platform/1564682425906.svg" style="max-width:100%;">
 <br><br>
-<b>How to reach me:</b><br><br>
+<b>How to reach me:</b><br>
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>

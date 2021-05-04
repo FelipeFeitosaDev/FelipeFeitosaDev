@@ -23,6 +23,6 @@
 </a>
 <h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=darcula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=dracula" />
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=graywhite" />-->
 </p>

@@ -19,7 +19,7 @@
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;" style="fill:white;">
 </a>
 <a href="https://www.instagram.com/felipefdev/" target="blank">
-<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384089.svg" style="max-width:100%;">
+<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384089.svg" style="max-width:100%; fill:#0562DC">
 </a>
 <h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
 <p align="left">

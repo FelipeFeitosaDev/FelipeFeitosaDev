@@ -16,7 +16,7 @@
 <br><br>
 <p><b>How to reach me:</b></p>
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%; fill:white;">
 </a>
 <a href="https://www.instagram.com/felipefdev/" target="blank">
 <img align="left" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384089.svg" style="max-width:100%;">

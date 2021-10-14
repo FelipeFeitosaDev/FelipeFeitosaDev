@@ -19,7 +19,7 @@
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/felipefdev/" target="blank">
-<img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1620090611~hmac=0587168ed080daa49252a23eafddc832" style="max-width:100%; fill:yellow">
+<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%; fill:yellow">
 </a>
 <h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
 <p align="left">

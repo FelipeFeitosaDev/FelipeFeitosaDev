@@ -22,7 +22,7 @@
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%; fill:yellow">
 </a>
 <a href="https://medium.com/@pro.felipefeitosa" target="blank">
-<img align="left" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504925.png?token=exp=1634736412~hmac=bb49a1f3c229502c5b6568c536c4fcdc" style="max-width:100%; fill:yellow">
+<img align="left" width="22px" src="https://cdn-icons.flaticon.com/png/512/4401/premium/4401405.png?token=exp=1634736700~hmac=8abc96a7a45b9e5c7012aee49a5d2716" style="max-width:100%; fill:yellow">
 </a>
 <h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
 <p align="left">

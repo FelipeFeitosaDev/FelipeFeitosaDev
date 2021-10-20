@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=dc143c)
 <p>I believe in the power of technology to make a fair world, where everyone can enjoy life without suffering.</p>
 <ul>
-<li>📖 I'm currently learning SQL and MongoDB</li>
-<li>💪 2020 Goals: Contribute more to open source education projects</li>
+<li>📖 I'm currently learning ES6+</li>
+<li>💪 2021 Goals: Contribute more to open source education projects</li>
 <li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
 </ul>
 <p><b>My Stack:</b></p>

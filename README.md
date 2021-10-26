@@ -22,7 +22,7 @@
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%; fill:yellow">
 </a>
 <a href="https://marmalade-manx-4bd.notion.site/Sobre-mim-74e19d7bf5f74c9ba80a38a87ee11cd5" target="blank">
-<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/notion--v1.png" style="max-width:100%; fill:yellow">
+<img align="left" width="25px" src="https://img.icons8.com/color/48/000000/notion--v1.png" style="max-width:100%; fill:yellow">
 </a>
 <h1 style="border-bottom: 1px solid #eaecef;margin: 2px 0;"></h1>
 <p align="left">

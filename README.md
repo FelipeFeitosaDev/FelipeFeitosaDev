@@ -51,7 +51,7 @@
 <a href="https://instagram.com/felipefdev" target="blank">
  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
- <a href="https://instagram.com/felipefdev" target="blank">
+ <a href="https://www.notion.so/Estruturas-de-dados-com-JavaScript-f1a3491416d04c6ea081ff4d88e0a2e6" target="blank">
  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=notion" alt="notion"/>
 </a>
 

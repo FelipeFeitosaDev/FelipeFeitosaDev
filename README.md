@@ -19,19 +19,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## How to reach me:
-
-<a href="https://www.linkedin.com/in/ffdev/" target="blank">
-<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/felipefdev/" target="blank">
-<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%; fill:yellow">
-</a>
-<a href="https://marmalade-manx-4bd.notion.site/Sobre-mim-74e19d7bf5f74c9ba80a38a87ee11cd5" target="blank">
-<img align="left" width="28px" src="https://img.icons8.com/color/240/000000/notion--v1.png" style="max-width:100%; fill:yellow">
-</a>
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />

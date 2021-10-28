@@ -30,6 +30,7 @@
 <a href="https://marmalade-manx-4bd.notion.site/Sobre-mim-74e19d7bf5f74c9ba80a38a87ee11cd5" target="blank">
 <img align="left" width="28px" src="https://img.icons8.com/color/240/000000/notion--v1.png" style="max-width:100%; fill:yellow">
 </a>
+<br><br>
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />

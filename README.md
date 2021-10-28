@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-#How to reach me:
+# How to reach me:
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
 </a>

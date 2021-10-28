@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-# How to reach me:
+## How to reach me:
 
 <a href="https://www.linkedin.com/in/ffdev/" target="blank">
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
@@ -32,7 +32,7 @@
 </a>
 <br><br>
 
-# ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />

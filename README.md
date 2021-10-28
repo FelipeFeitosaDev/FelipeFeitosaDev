@@ -6,7 +6,7 @@
 <li>💪 2021 Goals: Contribute more to open source education projects</li>
 <li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
 </ul>
-## 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;

@@ -34,6 +34,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 </p>

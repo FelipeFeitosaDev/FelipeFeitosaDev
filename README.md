@@ -51,5 +51,8 @@
 <a href="https://instagram.com/felipefdev" target="blank">
  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+ <a href="https://instagram.com/felipefdev" target="blank">
+ <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=notion" alt="notion"/>
+</a>
 
 </p>

@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=yellow" alt="Profile views" /> </p>
 <p>I believe in the power of technology to make a fair world, where everyone can enjoy life without suffering.</p>
 <ul>
-<li>📖 I'm currently learning ES6+</li>
+<li>📖 I'm currently learning JavaScript ES6+</li>
 <li>💪 2021 Goals: Contribute more to open source education projects</li>
 <li>😜 Fun fact: Nothing like pizza, skate and a bug-free code to sleep peacefully</li>
 </ul>

@@ -33,7 +33,7 @@
   <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/ffdev" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ffdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/felipefdev" target="blank">
  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=instagram" alt="instagram"/>

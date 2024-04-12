@@ -23,17 +23,8 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://twitter.com/FelipeFDev" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/ffdev" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-ffdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/felipefdev" target="blank">
- <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://www.notion.so/Estruturas-de-dados-com-JavaScript-f1a3491416d04c6ea081ff4d88e0a2e6" target="blank">
- <img align="center" src="https://img.shields.io/badge/-felipefdev-05122A?style=flat&logo=notion" alt="notion"/>
+<a href="https://www.linkedin.com/in/felipepalmeiradev/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Feiipe Palmeira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 </p>

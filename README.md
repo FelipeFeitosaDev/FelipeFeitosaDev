@@ -19,12 +19,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosaDev&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFeitosaDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
-</p>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">

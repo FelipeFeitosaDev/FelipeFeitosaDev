@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Palmeira</h1>
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Palmeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeFeitosaDev&color=yellow" alt="Profile views" /> </p>
 <p>I believe in the power of technology to make a fair world, where everyone can enjoy life without suffering.</p>
 <ul>
